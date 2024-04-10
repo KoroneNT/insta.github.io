@@ -47,6 +47,10 @@ button {
     cursor: pointer;
 }
 
+img{
+    width: 300px;
+}
+
 button:hover {
     background-color: #3578e5;
 }
